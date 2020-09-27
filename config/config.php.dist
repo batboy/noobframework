@@ -2,10 +2,10 @@
 
 return [
     'db' => [
-        'driver'	=> '',
-        'host'		=> '',
-        'dbname'	=> '',
-        'user'		=> '',
-        'pass'		=> ''
+        'driver'	=> 'mysql',
+        'host'		=> 'localhost',
+        'dbname'	=> 'bd2',
+        'user'		=> 'root',
+        'pass'		=> 'root'
     ],
 ];

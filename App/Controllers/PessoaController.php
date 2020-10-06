@@ -32,5 +32,4 @@ class PessoaController extends Controller{
     }
     
 
-
 }

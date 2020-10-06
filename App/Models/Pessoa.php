@@ -11,7 +11,4 @@ class Pessoa {
         return $db -> getList("cliente", "*");
     }
 
-    public function delete($id); {
-
-    }
 }

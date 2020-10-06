@@ -12,6 +12,6 @@ class ClienteController extends Controller {
     }
 
     public function editar() {
-        die("Em breve...")
+        die("Em breve...");
     }
 }
